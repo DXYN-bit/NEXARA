@@ -1,9 +1,8 @@
 <div align="center">
 
-# 🤖 Free Claude Code
+# 🤖 NEXARA
 
-### Use Claude Code CLI & VSCode for free. No Anthropic API key required.
-
+### THIS IS MY FIRST WEB
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json&style=for-the-badge)](https://github.com/astral-sh/uv)
